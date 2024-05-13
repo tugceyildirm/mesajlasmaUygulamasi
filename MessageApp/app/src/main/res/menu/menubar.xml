@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/cam"
+    android:icon="@drawable/cam1"
+    android:title="Kamera"/>
+    <item android:id="@+id/message"
+        android:icon="@drawable/message1"
+        android:title="Mesajlar"/>
+    <item android:id="@+id/set"
+        android:icon="@drawable/settings"
+        android:title="Ayarlar"/>
+</menu>
